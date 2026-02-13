@@ -19,6 +19,18 @@ This project aims to identify students who are at academic risk by analyzing fac
 The system predicts whether a student is at **Low, Medium, or High Risk** and helps in early intervention.
 
 ---
+## 📸 Dashboard Preview
+
+### 🏠 Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📊 Charts & Analysis
+![Charts](screenshots/charts.png)
+
+### ⚠️ Risk Prediction
+![Prediction](screenshots/prediction.png)
+
+---
 
 ## 🎯 Objectives
 
