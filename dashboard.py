@@ -188,4 +188,4 @@ with col2:
 
 # footer
 st.markdown("---")
-st.caption("AI Student Risk Assessment System | Engine: Random Forest Classifier | Developed by Muzammil Tahir")
+st.caption("Student Risk Assessment System | Engine: Random Forest Classifier | Developed by Muzammil Tahir")
