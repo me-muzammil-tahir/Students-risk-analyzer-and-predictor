@@ -30,7 +30,7 @@ slp = st.sidebar.slider("Sleep Hours", 0, 12, 7)
 soc = st.sidebar.slider("Social Media Usage (Hours)", 0, 15, 2)
 
 # main page
-st.title("AI Student Success Dashboard")
+st.title("Student Success Dashboard")
 st.markdown("---")
 
 col1, col2 = st.columns([1, 2])
@@ -98,7 +98,7 @@ with col1:
 
     # AI Study Plan Generator
     st.markdown("---")
-    if st.button("Generate AI Study Plan"):
+    if st.button("Generate Study Plan"):
         st.subheader("Personalized Study Plan")
 
         plan = []
